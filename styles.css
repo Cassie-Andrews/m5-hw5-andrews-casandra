@@ -34,7 +34,6 @@ nav {
 
 nav a {
     color: #021d2c;
-    display: inline-block;
     float: right;
     background: #DAF7A6;
     text-decoration: none;
@@ -56,6 +55,7 @@ main {
     width: 60%;
     background-color: #DAF7A6;
     padding: 30px;
+    border-radius: 4px;
 }
 
 .subheading {
@@ -67,6 +67,7 @@ main {
 .avatar {
     float: left;
     margin-right: 20px;
+    border-radius: 4px;
 }
 
 p {
@@ -81,6 +82,7 @@ aside {
     vertical-align: top;
     text-align: center;
     padding: 30px;
+    border-radius: 4px;
 }
 
 h3 {
